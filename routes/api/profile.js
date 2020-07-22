@@ -1,10 +1,10 @@
-const express = require("express");
-const router = express.Router();
+// const express = require("express");
+// const router = express.Router();
 
-//route               GET api/profile
-//discription         test route
-//ascess given        public
+// //route               GET api/profile
+// //discription         test route
+// //ascess given        public
 
-router.get("/", (req, res) => res.send("profile route is connected"));
+// router.get("/", (req, res) => res.send("profile route is connected"));
 
-module.exports = router;
+// module.exports = router;
